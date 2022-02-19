@@ -1,0 +1,34 @@
+.goal-form {
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+.goal-form label {
+  font-weight: bold;
+}
+
+.goal-form input {
+  width: 33rem;
+  max-width: 100%;
+  border: 3px solid rgb(119, 30, 155);
+  padding: 0.5rem;
+}
+
+.goal-form input:focus {
+  outline: none;
+  background-color: rgb(215, 168, 233);
+  border-color: rgb(119, 30, 155);
+}
+
+.goal-form.invalid input {
+  border-color: red;
+  background: rgb(243, 155, 155);
+}
+
+.goal-form.invalid label {
+  color: red;
+}
+
+.goal-form__actions {
+  text-align: left;
+}

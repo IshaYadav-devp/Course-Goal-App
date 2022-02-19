@@ -1,0 +1,10 @@
+.goal {
+  color: white;
+  background-color: rgb(119, 30, 155);
+  font-weight: bold;
+  font-size: 1.5em;
+  padding: 1rem;
+  margin: 1rem auto;
+  width: 50rem;
+  max-width: 95%;
+}

@@ -1,0 +1,6 @@
+.card {
+  border: 3px solid rgb(119, 30, 155);
+  margin: 3rem auto;
+  padding: 3rem;
+  width: 35%;
+}
